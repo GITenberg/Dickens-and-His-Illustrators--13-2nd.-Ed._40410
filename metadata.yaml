@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '35197'
     url: http://www.gutenberg.org/2009/agents/35197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40410#Dickens-and-His-Illustrators--13-2nd.-Ed.
 gutenberg_issued: '2012-08-04'
 gutenberg_type: Text
 identifiers:
