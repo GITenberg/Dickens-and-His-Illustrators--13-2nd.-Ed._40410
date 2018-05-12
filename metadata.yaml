@@ -1,0 +1,36 @@
+_repo: Dickens-and-His-Illustrators--13-2nd.-Ed._40410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kitton, Frederic George
+    aliases:
+    - Kitton, Frederic G. (Frederic George)
+    - Kitton, Fred G. (Frederic George)
+    - Kitton, F. G. (Frederic George)
+    birthdate: 1856
+    deathdate: 1904
+    gutenberg_agent_id: '35197'
+    url: http://www.gutenberg.org/2009/agents/35197
+description: ''
+gutenberg_issued: '2012-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- Illustrations'
+- !lcsh 'Illustration of books -- Great Britain -- 19th century'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Illustrations'
+- !lcc 'PR'
+- !lcsh 'Illustrators -- Great Britain'
+- !lcsh 'Illustration of books, Victorian -- Great Britain'
+title: "Dickens and His Illustrators\r\nCruikshank, Seymour, Buss, \"Phiz,\" Cattermole,\
+  \ Leech, Doyle, Stanfield, Maclise, Tenniel, Frank Stone, Landseer, Palmer, Topham,\
+  \ Marcus Stone, and Luke Fildes\r\n2nd. Ed."
+url: http://www.gutenberg.org/ebooks/40410
